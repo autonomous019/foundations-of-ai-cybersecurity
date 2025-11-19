@@ -2,7 +2,9 @@
 
 by Michael J. McCarron
 
-<b>this is a stub, (see stub_version.html) for a book I am currently working</b>
+<b>this is a stub, (see <a href="https://github.com/autonomous019/foundations-of-ai-cybersecurity/blob/main/stub_version.html">stub_version.html</a>) for a book I am currently working</b>
+
+last updated: 2025-11-18
 
 
 <hr data-start="768" data-end="771">
@@ -181,3 +183,4 @@ by Michael J. McCarron
 <strong data-start="7600" data-end="7663">E — “Darkly” Indicators of Compromise (IOC reference guide)</strong><br data-start="7663" data-end="7666">
 <strong data-start="7666" data-end="7722">F — Further Reading and Academic Sources (2021–2025)</strong></p>
 <hr data-start="7724" data-end="7727">
+
