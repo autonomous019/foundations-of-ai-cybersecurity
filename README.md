@@ -6,6 +6,11 @@ by Michael J. McCarron
 
 last updated: 2025-11-18
 
+Notes for main work in progress:
+<a href="https://github.com/autonomous019/foundations-of-ai-cybersecurity/blob/main/agentic_ai_history.md">How Sandia National Labs work from 15 years ago is analogous and presaged contemporary commercial Agentic AI</a>
+
+
+
 
 <hr data-start="768" data-end="771">
 <h1 data-start="773" data-end="796"><strong data-start="775" data-end="796">TABLE OF CONTENTS</strong></h1>
@@ -183,4 +188,5 @@ last updated: 2025-11-18
 <strong data-start="7600" data-end="7663">E — “Darkly” Indicators of Compromise (IOC reference guide)</strong><br data-start="7663" data-end="7666">
 <strong data-start="7666" data-end="7722">F — Further Reading and Academic Sources (2021–2025)</strong></p>
 <hr data-start="7724" data-end="7727">
+
 
