@@ -4528,14 +4528,6 @@ actively used.</p>
 
 
 
-
-
-
-
----
-
-*Prepared for research and educational use under the Standard Model and General Relativity physical frameworks.*
-
 ---
 
 AI Contribution Disclosure
