@@ -22,10 +22,13 @@ Notes for main work in progress:
 
 
 <hr data-start="768" data-end="771">
+
+
+---
+
 <h1 data-start="773" data-end="796"><strong data-start="775" data-end="796">TABLE OF CONTENTS</strong></h1>
 
 
-# Table of Contents
 
 - [Chapter 1 — What AI Is, and Why Cybersecurity Matters](#chapter-1)
 - [Chapter 2 — Threat Actors in the AI Era](#chapter-2)
@@ -890,6 +893,7 @@ AI Contribution Disclosure Portions of this work were developed with the assista
 The model did not contribute independent hypotheses, experimental design, data collection, or decision-making. All final interpretations, coding implementations, and conclusions were conceived, validated, and approved by the human author(s).
 
 Use of the model complied with ethical guidelines for transparency in AI-assisted authorship, consistent with the 2024 statements by Nature, IEEE, and Elsevier regarding disclosure of generative AI tools. No proprietary or unpublished data were provided to the model during its use.
+
 
 
 
