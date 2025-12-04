@@ -4,7 +4,7 @@ by Michael J. McCarron and ChatGPT 5.0
 
 
 last updated: 2025-11-18 (active drafts are posted as completed, all content is pre-pub pending review, etc) 
-
+<!--
 Notes for main work in progress:
 
 
@@ -18,6 +18,8 @@ Notes for main work in progress:
 <a href="https://github.com/autonomous019/foundations-of-ai-cybersecurity/blob/main/Agentic%20AI%20Profit%20Maximization%20Disaster.md">Agentic AI Market Manipulation: K-shaped agency</a>
 
 <a href="https://github.com/autonomous019/foundations-of-ai-cybersecurity/blob/main/humanoid%20robot%20security.md">Lax Security of Humanoid Robots</a>
+
+-->
 
 
 <hr data-start="768" data-end="771">
@@ -899,6 +901,7 @@ AI Contribution Disclosure Portions of this work were developed with the assista
 The model did not contribute independent hypotheses, experimental design, data collection, or decision-making. All final interpretations, coding implementations, and conclusions were conceived, validated, and approved by the human author(s).
 
 Use of the model complied with ethical guidelines for transparency in AI-assisted authorship, consistent with the 2024 statements by Nature, IEEE, and Elsevier regarding disclosure of generative AI tools. No proprietary or unpublished data were provided to the model during its use.
+
 
 
 
