@@ -56,7 +56,7 @@ Notes for main work in progress:
 
 ---
 
-## Chapter 1 — What AI Is, and Why Cybersecurity Matters
+## <a href="https://github.com/autonomous019/foundations-of-ai-cybersecurity/blob/main/chapter1.pdf">Chapter 1 — What AI Is, and Why Cybersecurity Matters</a>
 <a name="chapter-1"></a>
 
 Artificial Intelligence (AI) has existed in various forms for decades, but the arrival of modern large language models (LLMs), multi-modal systems, and tool-using autonomous agents has transformed AI from a specialized research field into a pervasive, general-purpose capability. Unlike traditional software, which follows deterministic rules written explicitly by programmers, modern AI systems learn patterns from vast amounts of data and use probabilistic inference to generate text, make decisions, reason, or take actions. This shift is foundational: it means that AI can behave in ways its creators never directly programmed, including ways they can’t always predict or fully control.
@@ -899,6 +899,7 @@ AI Contribution Disclosure Portions of this work were developed with the assista
 The model did not contribute independent hypotheses, experimental design, data collection, or decision-making. All final interpretations, coding implementations, and conclusions were conceived, validated, and approved by the human author(s).
 
 Use of the model complied with ethical guidelines for transparency in AI-assisted authorship, consistent with the 2024 statements by Nature, IEEE, and Elsevier regarding disclosure of generative AI tools. No proprietary or unpublished data were provided to the model during its use.
+
 
 
 
