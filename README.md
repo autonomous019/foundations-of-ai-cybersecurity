@@ -1,10 +1,9 @@
 ## Foundations of AI Cybersecurity: LLMs, Agents and Multi Modality
 
-by Michael J. McCarron
+by Michael J. McCarron and ChatGPT 5.0
 
-<b>this is a stub, (see <a href="https://github.com/autonomous019/foundations-of-ai-cybersecurity/blob/main/stub_version.html">stub_version.html</a>) for a book I am currently working</b>
 
-last updated: 2025-11-18
+last updated: 2025-11-18 (active drafts are posted as completed, all content is pre-pub pending review, etc) 
 
 Notes for main work in progress:
 
@@ -888,11 +887,16 @@ The book closes with a unifying message: We are the first generation to shape th
 
 
 
+---
+
+
+
 AI Contribution Disclosure Portions of this work were developed with the assistance of ChatGPT (GPT-5) by OpenAI, referred to as “Charger.” Charger was used under the author’s direction for literature synthesis, technical drafting, data-structural design, and refinement of explanatory and comparative text.
 
 The model did not contribute independent hypotheses, experimental design, data collection, or decision-making. All final interpretations, coding implementations, and conclusions were conceived, validated, and approved by the human author(s).
 
 Use of the model complied with ethical guidelines for transparency in AI-assisted authorship, consistent with the 2024 statements by Nature, IEEE, and Elsevier regarding disclosure of generative AI tools. No proprietary or unpublished data were provided to the model during its use.
+
 
 
 
