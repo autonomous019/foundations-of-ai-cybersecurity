@@ -78,6 +78,9 @@ The chapter also introduces why the distinction between safety and security is c
 
 Finally, this chapter frames the book’s core thesis: AI cybersecurity is not optional. As AI becomes embedded into the global digital and physical infrastructure, securing these systems becomes integral to safeguarding society. The goal of this book is to provide developers, cybersecurity professionals, policymakers, and educated non-technical readers with the conceptual and practical tools needed to understand and defend the emerging AI ecosystem. Everything else builds on this foundation.
 
+
+<a href="https://github.com/autonomous019/foundations-of-ai-cybersecurity/blob/main/chapter1.pdf">Chapter draft pre-pub</a>
+
 ---
 
 ## Chapter 2 — Threat Actors in the AI Era
@@ -896,6 +899,7 @@ AI Contribution Disclosure Portions of this work were developed with the assista
 The model did not contribute independent hypotheses, experimental design, data collection, or decision-making. All final interpretations, coding implementations, and conclusions were conceived, validated, and approved by the human author(s).
 
 Use of the model complied with ethical guidelines for transparency in AI-assisted authorship, consistent with the 2024 statements by Nature, IEEE, and Elsevier regarding disclosure of generative AI tools. No proprietary or unpublished data were provided to the model during its use.
+
 
 
 
